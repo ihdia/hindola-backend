@@ -6,9 +6,11 @@ This Annotation App is to manage the manuscripts annotations through an interact
 Stated in requirements.txt in App folder
 
 ### To run on local system
--> Download the Repo and install the prerequisites
--> Go to the App folder, locate app.py
--> Run - ```bash python3 app.py```
+1. Download the Repo and install the prerequisites
+2. Go to the App folder, locate app.py
+3. Run - ```bash 
+python3 app.py
+```
 
 ### Annotations
 -> Open the page at the started local server
