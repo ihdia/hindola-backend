@@ -8,7 +8,7 @@ Stated in requirements.txt in App folder
 ### To run on local system
 -> Download the Repo and install the prerequisites
 -> Go to the App folder, locate app.py
--> Run - python3 app.py
+-> Run - ```bash python3 app.py```
 
 ### Annotations
 -> Open the page at the started local server
