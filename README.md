@@ -1,9 +1,12 @@
 # hindola-backend
-Backend system for managing DB and front-end in HInDoLA
-This Annotation App is to manage the manuscripts annotations through an interactive GUI. Implemented in Flask, the App has useful features to annotate images from large manuscripts libraries.
+This repo is for the component which serves the front-end annotation interface and manages the back-end DB in our HInDoLA system. 
 
 ### Prerequisites
-Stated in requirements.txt in App folder
+Install the prerequisites mentioned in App/requirements.txt
+
+
+The Annotation App is to manage the manuscripts annotations through an interactive GUI. Implemented in Flask, the App has useful features to annotate images from large manuscripts libraries.
+
 
 ### To run on local system
 1. Download the Repo and install the prerequisites
