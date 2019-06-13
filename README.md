@@ -9,12 +9,13 @@ Create a database using the MYSQL command line and also set it as the database n
 ### Database Handling
 1. If you have the .sql file containing all the information then use the following command to connect to your database:
 
- mysql -u localusername -p local databasename < yourfilename.sql
+   mysql -u localusername -p local databasename < yourfilename.sql
 
 2. If there is another database serving a remote website the nuse the following commands:
 
- mysqldump -u remoteusername -p -h your.site.com localdatabasename > dump.sql
- mysql -u localusername -p local databasename < dump.sql
+   mysqldump -u remoteusername -p -h your.site.com localdatabasename > dump.sql
+   
+   mysql -u localusername -p local databasename < dump.sql
 ### To setup the backend server on local system
 1. Download the repository and install the prerequisites mentioned in Annotation_App/requirements.txt
 2. Go to the Annotation_App folder and locate app.py
