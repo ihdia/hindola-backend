@@ -3,6 +3,7 @@ This is the repository for the component which serves the front-end web-based an
 
 The first step is to setup the backend database. 
 Download MYSQL from https://www.mysql.com/downloads/
+
 Set up with a Username and Password and use the same credentials in the app.py file in the Annotation_App folder.
 Create a database using the MYSQL command line and also set it as the database name in the app.py.
 
