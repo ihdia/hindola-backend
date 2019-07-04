@@ -35,3 +35,7 @@ The Annotation App is to manage the manuscripts annotations through an interacti
 3. Request image through "Request" Button
 4. Annotate with the regions provided - Freehand (single click to start and double click to finish), Polygon(Single click     to start, each click adds new vertex and double click to finish)
 5. "Done" button to save the annotations, "Skip" button to skip the image 
+
+### Videos
+1. Normal Mode -    https://tinyurl.com/hindola-v1-annotator
+2. Correction Mode - https://tinyurl.com/hindola-v1-annotator-corr
